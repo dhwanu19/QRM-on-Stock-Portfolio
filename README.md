@@ -45,10 +45,3 @@ The following techniques and models were used:
 ## Conclusion
 
 This project demonstrates the application of quantitative risk management techniques, such as copula models, Monte Carlo simulations, and risk metrics, to assess the risk exposure of a portfolio containing AMD and NVIDIA stocks. The analysis helps in understanding joint risk behavior, particularly during extreme market conditions, and provides valuable insights for effective risk management.
-
-## How to Run the Code
-
-1. Clone this repository.
-2. Install the required libraries in R using the following command:
-   ```R
-   install.packages(c("copula", "quantmod", "dplyr", "ggplot2", "reshape2"))
